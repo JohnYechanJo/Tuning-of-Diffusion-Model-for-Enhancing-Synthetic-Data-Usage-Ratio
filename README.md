@@ -3,7 +3,8 @@
 
 <br>
 <h1>CycleGAN for Retinal OCT Images Anomaly Detection</h1>
-  
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub last commit](https://img.shields.io/github/last-commit/JohnYechanJo/Novo-Nordisk_Anomaly-Detection)](https://github.com/JohnYechanJo/Novo-Nordisk_Anomaly-Detection/commits/main)
 [![GitHub issues](https://img.shields.io/github/issues/JohnYechanJo/Novo-Nordisk_MIT)](https://github.com/JohnYechanJo/Novo-Nordisk_Anomaly-Detection/issues)
 <br>
