@@ -1,4 +1,3 @@
-# Novo-Nordisk_Anomaly-Detection
 
 <div align="center">
 
