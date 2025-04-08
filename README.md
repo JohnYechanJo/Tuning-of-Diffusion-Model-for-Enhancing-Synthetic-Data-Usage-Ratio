@@ -14,11 +14,11 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/JohnYechanJo"><img src="https://avatars.githubusercontent.com/u/131790222?v=4" width="100px;" alt=""/><br /><sub><b>John Yechan Jo</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/yoheyokubo"><img src="https://avatars.githubusercontent.com/u/131790222?v=4" width="100px;" alt=""/><br /><sub><b>Yohei Okubo</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Kaaaaaaaaaaaai"><img src="https://avatars.githubusercontent.com/u/131790222?v=4" width="100px;" alt=""/><br /><sub><b>Kazuma Itabashi</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/allergic-garlic"><img src="https://avatars.githubusercontent.com/u/131790222?v=4" width="100px;" alt=""/><br /><sub><b>Yiran Qi</b></sub></a><br /></td>
-     <td align="center"><a href="https://github.com/joelleoqiyi"><img src="https://avatars.githubusercontent.com/u/131790222?v=4" width="100px;" alt=""/><br /><sub><b>Joel Leo</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/JohnYechanJo"><img src="https://avatars.githubusercontent.com/u/131790222?v=4" width="100px;" alt=""/><br /><sub><b>John Yechan Jo</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/yoheyokubo"><img src="https://avatars.githubusercontent.com/u/53531872?v=4" width="100px;" alt=""/><br /><sub><b>Yohei Okubo</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/Kaaaaaaaaaaaai"><img src="https://avatars.githubusercontent.com/u/108678858?v=4" width="100px;" alt=""/><br /><sub><b>Kazuma Itabashi</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/allergic-garlic"><img src="https://avatars.githubusercontent.com/u/108678858?v=4" width="100px;" alt=""/><br /><sub><b>Yiran Qi</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/joelleoqiyi"><img src="https://avatars.githubusercontent.com/u/108678858?v=4" width="100px;" alt=""/><br /><sub><b>Joel Leo</b></sub></a><br /></td>
     </tr>
 </table>
 
