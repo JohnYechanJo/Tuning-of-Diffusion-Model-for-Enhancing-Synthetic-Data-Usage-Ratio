@@ -38,9 +38,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ### When Push
 
-Name the commit message as "{Name} + {Content}".
+Name the commit message as "{Name} - {Content}".
 
-Example: John + MAE Code Push
+Example: John - MAE Code Push
 
 ### After Push
 
