@@ -2,8 +2,7 @@
 <div align="center">
 
 <br>
-<h1>Tuning of Diffusion Models for Enhancing Synthetic Data Usage Ratio ![image](https://github.com/user-attachments/assets/f7d6e6f5-63ac-408e-a428-990f67f3d7cb)
-</h1>
+<h1>Tuning of Diffusion Models for Enhancing Synthetic Data Usage Ratio</h1>
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub last commit](https://img.shields.io/github/last-commit/JohnYechanJo/Novo-Nordisk_Anomaly-Detection)](https://github.com/JohnYechanJo/Novo-Nordisk_Anomaly-Detection/commits/main)
