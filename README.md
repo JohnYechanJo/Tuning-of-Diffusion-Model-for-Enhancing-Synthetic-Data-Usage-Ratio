@@ -4,12 +4,12 @@
 <h1>Tuning of Diffusion Models for <br> Enhancing Synthetic Data Usage Ratio</h1>
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![GitHub last commit](https://img.shields.io/github/last-commit/JohnYechanJo/Novo-Nordisk_Anomaly-Detection)](https://github.com/JohnYechanJo/Novo-Nordisk_Anomaly-Detection/commits/main)
-[![GitHub issues](https://img.shields.io/github/issues/JohnYechanJo/Novo-Nordisk_Anomaly-Detection)](https://github.com/JohnYechanJo/Novo-Nordisk_Anomaly-Detection/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/JohnYechanJo/Novo-Nordisk_Synthetic-Image-Usage)](https://github.com/JohnYechanJo/Novo-Nordisk_Synthetic-Image-Usage/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/JohnYechanJo/Novo-Nordisk_Synthetic-Image-Usage)](https://github.com/JohnYechanJo/Novo-Nordisk_Synthetic-Image-Usage/issues)
 <br>
 ## Contributors
 
-[![GitHub Contributors](https://img.shields.io/github/contributors-anon/JohnYechanJo/Novo-Nordisk_Anomaly-Detection)](https://github.com/JohnYechanJo/Novo-Nordisk_Anomaly-Detection/graphs/contributors)
+[![GitHub Contributors](https://img.shields.io/github/contributors-anon/JohnYechanJo/Novo-Nordisk_Synthetic-Image-Usage)](https://github.com/JohnYechanJo/Novo-Nordisk_Synthetic-Image-Usage/graphs/contributors)
 
 <table>
   <tr>
@@ -77,4 +77,4 @@ Choroidal Neovascularization (CNV) is a critical condition characterized by abno
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/JohnYechanJo/Novo-Nordisk_Anomaly-Detection
+   git clone https://github.com/JohnYechanJo/Novo-Nordisk_Synthetic-Image-Usage
